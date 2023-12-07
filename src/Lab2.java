@@ -1,3 +1,4 @@
+//Lab2
 interface Counter
 {
 
@@ -39,7 +40,17 @@ class wordProcessor implements Counter
         System.out.println("The number of sentence is:"+sentenceCount);
         return sentenceCount;
     }
+
+
+    public int number(int x, int y)
+    {
+        return x+y;
+    }
 }
+
+
+
+
 
 
  class Driver {

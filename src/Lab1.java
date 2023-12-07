@@ -1,3 +1,4 @@
+//Lab1
 abstract class Shape{
 
     protected int sides;
